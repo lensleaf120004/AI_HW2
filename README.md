@@ -1,2 +1,2 @@
 # AI_HW2
-AI Homework2
+Intro_to_AI Homework2
